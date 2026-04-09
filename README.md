@@ -1,6 +1,6 @@
 ﻿# CS 196 Assignment-1 Template
 
-This is the template for the first course assignment. From your repository, pull it to the IDE of your choice using the steps delineated by GitHub
+This is the template for the first course assignment. For each exercise in the assignment, make a copy of the relevant starter code and edit it according to the exercise instructions.
 
 Given that you all likely have differing experience levels with utilizing generative AI tools for coding, the first assignment will serve to give you baseline experience of what you can do with these tools and compare different model options. We will focus on test-driven development, test-last development, debugging, and natural language processing. As a helpful starting place, here are some slides Download some slideson the topics covered by the assignment. I encourage you to look through them, and jot down any questions they may bring up.
 
